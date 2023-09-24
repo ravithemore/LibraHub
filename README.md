@@ -1,12 +1,7 @@
 # LibraHub 📚
-
-## Library Management System
-
-### Introduction
-
 LibraHub is a comprehensive library management system designed to automate library operations and enhance efficiency. This web-based system can be accessed from anywhere with an internet connection.
 
-### Features
+## Features
 
 - 📝 Add and manage students and books
 - 📚 Check out and return books
@@ -14,11 +9,11 @@ LibraHub is a comprehensive library management system designed to automate libra
 - 📊 Generate reports
 - 🔒 Manage security features such as CAPTCHA verification and password encryption
 
-### New Features
+## New Features
 
 This extended version of LibraHub introduces an exciting feature for report generation. Librarians can now generate reports on various aspects of the library, including the most popular books, the most active students, and overdue books.
 
-### Installation
+## Installation 💻
 
 To install LibraHub, you'll need:
 
@@ -54,7 +49,7 @@ Configure LibraHub by opening the `config/database.php` file and entering your d
 
 To create an administrator account, visit `/admin/setup` in your web browser.
 
-### Usage
+## Usage 🪴
 
 Once you have created an administrator account, start using LibraHub to manage your library:
 
@@ -63,7 +58,7 @@ Once you have created an administrator account, start using LibraHub to manage y
 - To track overdue books and fines, navigate to the Overdue Books page.
 - To generate a report, access the Reports page and select the report you need.
 
-### Security Features
+## Security Features 🔐
 
 LibraHub prioritizes your data's security with:
 
@@ -71,18 +66,18 @@ LibraHub prioritizes your data's security with:
 - 🔑 Password encryption to protect user passwords
 - 🚪 Session management to prevent unauthorized access
 
-### Support
+### Support 💌
 
 If you need assistance with LibraHub, please visit the [LibraHub GitHub repository](https://github.com/ravithemore/LibraHub).
 
-### License
+### License 🪪
 
 LibraHub is licensed under the MIT License.
 
-### Contributing
+### Contributing 💁‍♂️
 
 If you'd like to contribute to LibraHub, fork the GitHub repository and create a pull request.
 
-### Conclusion
+### Conclusion 👍
 
 LibraHub is a complete library management system that empowers libraries to automate operations and boost efficiency. It's easy to install, user-friendly, and packed with security features to safeguard your data.
