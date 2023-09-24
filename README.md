@@ -9,6 +9,9 @@ LibraHub is a comprehensive library management system designed to automate libra
 - 📊 Generate reports
 - 🔒 Manage security features such as CAPTCHA verification and password encryption
 
+ 
+
+
 ## New Features
 
 This extended version of LibraHub introduces an exciting feature for report generation. Librarians can now generate reports on various aspects of the library, including the most popular books, the most active students, and overdue books.
